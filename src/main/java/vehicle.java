@@ -40,6 +40,4 @@ public class vehicle {
     public void setColor(String color) {
         this.color = color;
     }
-
-
 }
