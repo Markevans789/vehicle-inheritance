@@ -12,5 +12,6 @@ public class main {
         SemiTruck.setNumberOfPassengers(5);
 
         SemiTruck.Color("purple");
+
     }
 }
